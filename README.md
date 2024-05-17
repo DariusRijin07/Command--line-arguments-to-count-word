@@ -21,8 +21,8 @@ Display the total words in the file.
 
 
 ```python
-Developed by: Jeeva K
-Register no: 212223230090
+Developed by: Darius Rijin I
+Register no: 212223230037
 
 
 import sys
